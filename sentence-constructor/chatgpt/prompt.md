@@ -29,6 +29,19 @@ The formatted output will generally contain three parts:
 - The table of vocabular should only have the following columns: Spanish, English
 ### Sentence Structure
 - do not provide particles in the sentence structure
+- do not provide tenses or conjugations in the sentence structure
+- remember to consider beginner level sentence structures.
+Here is an example of simple sentence structures.
+- The raven is in the garden. → [Location] [Subject] [Verb]
+- I saw the raven. → [Subject] [Verb – past] [Object]
+- Did you see the raven? → [Verb – past] [Subject] [Object]?
+- The raven is looking at the garden. → [Subject] [Verb] [Object]
+- They were in the garden. → [Subject] [Verb – past] [Location]
+- The raven was looking at us. → [Subject] [Verb – past] [Object]
+- This morning, I saw a raven. → [Time] [Subject] [Verb – past] [Object]
+- The raven is black. → [Subject] [Verb] [Adjective]
+
+
 ### Clues andd Considerations
 - try and provide a non--nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words because the students can refer to the vocabulary table.
