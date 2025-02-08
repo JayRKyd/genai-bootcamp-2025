@@ -93,3 +93,9 @@ Here is an example of simple sentence structures.
 - try and provide a non--nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words because the students can refer to the vocabulary table.
 - reference the <file>considerations_examples.xml</file> for good structure examples
+
+## Teacher Tests
+
+Please read this file so you can see more examples to provide better output
+
+- reference the <file>spanish-teaching-test.md</file>
