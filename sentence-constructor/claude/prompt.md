@@ -92,8 +92,4 @@ Here is an example of simple sentence structures.
 ### Clues Considerations and Next Steps
 - try and provide a non--nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words because the students can refer to the vocabulary table.
-
-- Here are examples of user input and assistant output, pay attention to the score because and why the example is scored that way
-
-
-Student Input: Did you see the raven this morning? They were looking at our garden.
+- reference the <file>considerations_examples.xml</file> for good structure examples

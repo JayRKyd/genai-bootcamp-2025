@@ -1,0 +1,30 @@
+<examples>
+    <example>
+        <output>
+        This sentence expresses a state of being with "estar" that results in a consequence
+        The connector "so" indicates a cause and effect relationship
+        Attempt an answer using the vocabulary and structure provided
+    Ask about how to express impersonal statements in Spanish
+    sk about connecting cause and effect statements
+        </output>
+        <score>6</score>
+            <score:reason>
+            This example scores 10 because the returned information is too verbose
+        </score:reason>
+    </example>
+    <example>
+        <output>
+        Ask about expressing difficulty with infinitive verbs
+        Ask about pronoun usage
+        The impersonal "it" in English needs to be handled differently in Spanish
+        For the second clause, we need to consider how to express difficulty with an action
+        </output>
+    
+        <score>10</score>
+        <score:reason>
+            This example scores 10 because the returned information is concise
+        </score:reason>
+    </example>
+
+
+</examples>
