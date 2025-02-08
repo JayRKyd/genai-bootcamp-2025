@@ -1,0 +1,41 @@
+<sentence_structures>
+    <sentence>
+        <example>The raven is in the garden.</example>
+        <structure>[Location] [Subject] [Verb]</structure>
+    </sentence>
+    
+    <sentence>
+        <example>I saw the raven.</example>
+        <structure>[Subject] [Verb-past] [Object]</structure>
+    </sentence>
+    
+    <sentence>
+        <example>Did you see the raven?</example>
+        <structure>[Verb-past] [Subject] [Object]?</structure>
+    </sentence>
+    
+    <sentence>
+        <example>The raven is looking at the garden.</example>
+        <structure>[Subject] [Verb] [Object]</structure>
+    </sentence>
+    
+    <sentence>
+        <example>They were in the garden.</example>
+        <structure>[Subject] [Verb-past] [Location]</structure>
+    </sentence>
+    
+    <sentence>
+        <example>The raven was looking at us.</example>
+        <structure>[Subject] [Verb-past] [Object]</structure>
+    </sentence>
+    
+    <sentence>
+        <example>This morning, I saw a raven.</example>
+        <structure>[Time] [Subject] [Verb-past] [Object]</structure>
+    </sentence>
+    
+    <sentence>
+        <example>The raven is black.</example>
+        <structure>[Subject] [Verb] [Adjective]</structure>
+    </sentence>
+</sentence_structures>
